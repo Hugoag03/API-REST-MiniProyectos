@@ -1,0 +1,12 @@
+[submodule "API-Rest-Empleados-"]
+	path = API-Rest-Empleados-
+	url = https://github.com/Hugoag03/API-Rest-Empleados-
+[submodule "Cuentas-API-REST-"]
+	path = Cuentas-API-REST-
+	url = https://github.com/Hugoag03/Cuentas-API-REST-
+[submodule "SistemaEncuestas"]
+	path = SistemaEncuestas
+	url = https://github.com/Hugoag03/SistemaEncuestas
+[submodule "BancaDigital"]
+	path = BancaDigital
+	url = https://github.com/Hugoag03/BancaDigital
