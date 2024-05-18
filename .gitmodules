@@ -12,3 +12,6 @@
 	url = https://github.com/Hugoag03/BancaDigital
 [submodule "submodulos/API-Rest-Empleados"]
 	url = https://github.com/Hugoag03/API-Rest-Empleados
+[submodule "SistemaFacturacion-API-REST"]
+	path = SistemaFacturacion-API-REST
+	url = https://github.com/Hugoag03/SistemaFacturacion-API-REST
